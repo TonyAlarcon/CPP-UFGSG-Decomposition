@@ -1,1 +1,1 @@
-# CPP-Uniaxial-Feasible-Gap-Severity-Guided-Decomposition
+# CPP via Uniaxial Feasible, Gap-Severity Guided Decomposition
