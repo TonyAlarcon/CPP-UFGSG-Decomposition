@@ -96,4 +96,6 @@ Expand dropdown below to display polygons and generated paths for all baselines
 <img src="collages/P12_contact_sheet.png" alt="P12" width="100%">
 </details>
 
-<details><summary><b>P13</b></su
+<details><summary><b>P13</b></summary>
+<img src="collages/P13_contact_sheet.png" alt="P13" width="100%">
+</details>
